@@ -54,7 +54,7 @@ Ansible was created by [Michael DeHaan](https://github.com/mpdehaan) (michael.de
 
 Ansible is sponsored by [Ansible, Inc](https://ansible.com)
 
-Licence
+License
 =======
 GNU
 Click on the [Link](COPYING) to see the full text.
